@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaCompra.Application",
+    "\\SistemaCompra.CrossCutting",
+    "\\SistemaCompra.Domain",
+    "\\SistemaCompra.Domain.Core",
+    "\\SistemaCompra.Domain.Test",
+    "\\SistemaCompra.Infra.Data",
+    "\\SistemaCompra.Infra.Data\\SolicitacaoCompra"
+  ],
+  "PreviewInSolutionExplorer": false
+}
